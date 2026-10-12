@@ -4,8 +4,8 @@ This workshop uses K-Nearest Neighbors (KNN) to predict a penguin's species from
 
 ## Project files
 
-- `knn_penguins.ipynb` â€” notebook containing the complete exercise.
-- `README.md` â€” project overview and setup instructions.
+- `knn_penguins.ipynb` notebook containing the complete exercise.
+- `README.md` project overview and setup instructions.
 
 ## Dataset
 
