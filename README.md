@@ -41,7 +41,7 @@ The notebook loads the Palmer Penguins dataset using `seaborn.load_dataset('peng
 4. Install the Python and Jupyter extensions in VS Code if needed.
 5. Open `knn_penguins.ipynb`, select the `.venv` Python interpreter as the notebook kernel, and choose **Run All**.
 
-Alternatively, launch Jupyter from the project folder:
+Alternatively, launch Jupyter from the projeinstact folder:
 
 ```powershell
 .\.venv\Scripts\python.exe -m jupyter notebook
