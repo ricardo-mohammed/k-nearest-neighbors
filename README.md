@@ -93,3 +93,7 @@ Both groups worked on a K-Nearest Neighbors classification workshop. Our project
 - KNN and scikit-learn pipeline documentation: https://scikit-learn.org/stable/modules/neighbors.html and https://scikit-learn.org/stable/modules/compose.html#pipeline
 - Workshop starter instructions: https://github.com/ProfEspinosaAIML/KNearestNeighbors_Workshop
 - Peer KNN workshop repository: https://github.com/Namypark/KNearestNeighbors_Workshop
+
+
+<br/>
+This project was developed with the assistance of **Qwen3.7**, a large language model developed by Alibaba Cloud. The AI provided support with code scaffolding, ML pipeline architecture design, debugging, and generating explanatory Markdown documentation for the K-Nearest Neighbors (KNN) workshop. All final code, logic, and reflections were reviewed and validated by the student authors.

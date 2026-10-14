@@ -1,4 +1,6 @@
 
+"""Exploratory data analysis helpers for the Palmer Penguins dataset."""
+
 import seaborn as sns
 from IPython.display import display
 
